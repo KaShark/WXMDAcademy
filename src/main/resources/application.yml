@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://198.168.3.136:3306/academy
+    username: kashark
+    password: kashark112421134
+
+mybatis:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
