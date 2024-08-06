@@ -1,9 +1,9 @@
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/academy
+    url: jdbc:mysql://192.168.3.136:3306/academy
     username: kashark
-    password: 081125kashark
+    password: kashark112421134
 
 mybatis:
   configuration:
